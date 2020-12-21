@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "stdexcept": "cpp",
+        "xiosbase": "cpp",
+        "iostream": "cpp",
+        "queue": "cpp"
+    }
+}
